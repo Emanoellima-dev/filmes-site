@@ -1,7 +1,7 @@
 # Ola!
 ### Este é um projeto de um site feito com React usando a API tmdb uma API bastante completa e cheia de informaçoes sobre filmes.
 
-### se você quiser dar uma olhada no site, ele está hospedado no endereço: [https://site-filmes.onrende.com](https://site-filmes.onrender.com)
+### se você quiser dar uma olhada no site, ele está hospedado no endereço: [https://site-filmes.onrender.com](https://site-filmes.onrender.com)
 
 ### ao abrir o site, os filmes são exibidos e você pode clicar no botão "detalhes" para ver os detalhes do filme. assim como mostra a imagem 1 logo abaixo.
 
