@@ -22,7 +22,7 @@ src="https://github.com/Emanoellima-dev/filmes-site/blob/main/images/imagem3.jpg
 <img
 src="https://github.com/Emanoellima-dev/filmes-site/blob/main/images/imagem4.jpg" width="400" />
 
-### o site é altamente responsivo e está disponivel tanto para celular quanto para computador. veja as imagens abaixo:
+### o site é altamente responsivo e está disponivel tanto para celular quanto para computador. veja as imagens abaixo de como fica o site na tela do computador:
 
 ## imagem 5
 <img
