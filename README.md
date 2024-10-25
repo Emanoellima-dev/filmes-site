@@ -1,8 +1,4 @@
-# React + Vite
+# Ola!
+### este é um projeto de um site feito com React usando a API tmdb uma API bastante completa e cheia de informaçoes sobre filmes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### se você quiser dar uma olhada, o site está hospedado no endereço:(https://site-filmes.onrender.com)
