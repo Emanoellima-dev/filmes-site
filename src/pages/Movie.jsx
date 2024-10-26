@@ -17,6 +17,7 @@ const Authorization = import.meta.env.VITE_AUTHORIZATION;
 export default function Movie(){
  const [movies, setMovie] = useState([]);
  const {id} = useParams();
+ const [loading, setLoading] = useState(true)
 
   const formatCurrency = (number) => {
     return number.toLocaleString("en-US", {
@@ -39,13 +40,22 @@ export default function Movie(){
      } catch(error){
        alert("erro ao buscar filme", error)
        return
+     } finally {
+	setLoading(false)
      }
    }
 
    buscarFilme();
   }, [id])
  
-
+ if(loading){
+   return (
+      <div>
+	<h2>Carregando...</h2>
+      </div>
+   )
+ }
+	
   return (
     <div className="movie-page">
        {movies && (
